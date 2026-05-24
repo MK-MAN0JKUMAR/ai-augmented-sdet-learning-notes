@@ -1,12 +1,10 @@
 # Phase 1 — Final Complete Study Guide
-## AI-Augmented SDET Roadmap | Month 1–2
+## AI-Augmented SDET Roadmap
 
 > **IMPORTANT: This is the FINAL, COMPLETE Phase 1 guide.**
 > It covers everything you need to know before moving to Phase 2.
 >
 > **How to use this:**
-> - In office (Copilot): Search each topic heading. Read theory only.
-> - At home (laptop): Do practical exercises. Run code. Build the exit project.
 > - Do NOT skip pitfalls — they save debugging hours.
 > - Track progress using checklists at the end.
 
