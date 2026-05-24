@@ -1,11 +1,9 @@
 # Phase 2 — Complete Study Guide
-## LLM Evaluation Foundation | Month 2–4
+## LLM Evaluation Foundation
 
 > **Prerequisites:** You must have completed Phase 1. You can call LLM APIs, understand tokens, temperature, and non-determinism.
 >
 > **How to use this:**
-> - In office (Copilot): Search each topic heading. Read theory only. Take notes.
-> - At home (laptop): Run code examples. Understand outputs. Modify and experiment.
 > - Do NOT skip pitfalls — they reveal why evaluation frameworks fail in production.
 > - You know Phase 1. This builds directly on it.
 
