@@ -1,5 +1,5 @@
 # Phase 4 — Complete Study Guide
-## Playwright + AI Integration
+## Playwright + AI Integration 
 
 > **Prerequisites:** You must have completed Phase 1, 2, and 3.
 >
