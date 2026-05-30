@@ -1276,7 +1276,7 @@ def test_checkout_with_ai(page):
 
 ### BEFORE_AFTER.md:
 
-```markdown
+
 # AI Integration - Before/After Metrics
 
 ## Test Reliability
@@ -1313,7 +1313,7 @@ def test_checkout_with_ai(page):
 - Failure analyses: 30/month
 - Test generations: 150/month
 - Average LLM accuracy: 87%
-```
+
 
 ---
 
