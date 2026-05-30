@@ -1,5 +1,5 @@
 # Phase 3 — Complete Study Guide
-## RAG Testing Framework
+## RAG Testing Framework 
 
 > **Prerequisites:** You must have completed Phase 1 and Phase 2.
 >
